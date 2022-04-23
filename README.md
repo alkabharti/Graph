@@ -8,12 +8,12 @@
 
 ## Graph can be represented in 2 ways:
 
-- Adjacency Matrix :
+- Adjacency Matrix : O(V^2)
 
 ![image](https://user-images.githubusercontent.com/23376002/164896038-2b0c0ba5-c0d9-45de-a377-278a9f2bf46c.png)
 
 
-- Adjacency List :
+- Adjacency List : O(V+E)
 
 ![image](https://user-images.githubusercontent.com/23376002/164896071-2f79a0b3-8106-4f24-a587-5aee62ec38dd.png)
 
