@@ -4,4 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/23376002/164894358-4e9d0d17-401b-47c8-abca-e7be563a7117.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Graph can be represented in 2 ways:
+
+- Adjacency Matrix :
+
+![image](https://user-images.githubusercontent.com/23376002/164896038-2b0c0ba5-c0d9-45de-a377-278a9f2bf46c.png)
+
+
+- Adjacency List :
