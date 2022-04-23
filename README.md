@@ -14,3 +14,9 @@
 
 
 - Adjacency List :
+
+![image](https://user-images.githubusercontent.com/23376002/164896071-2f79a0b3-8106-4f24-a587-5aee62ec38dd.png)
+
+
+
+
